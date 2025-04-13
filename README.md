@@ -1,2 +1,2 @@
 # arduino-esp32-projects
-  Collections of arduino development.
+  Collections of arduino(esp32) projects.
